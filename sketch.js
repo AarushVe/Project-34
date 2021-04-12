@@ -39,7 +39,7 @@ function draw() {
   box4.display()
 
   hero.display();
-  rope.display();
+  //rope.display();
   monster.display();
 
 }
